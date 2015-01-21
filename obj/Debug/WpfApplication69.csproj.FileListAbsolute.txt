@@ -1,0 +1,14 @@
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\Window1.baml
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\Window1.g.cs
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\App.g.cs
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69_MarkupCompile.cache
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.g.resources
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.Properties.Resources.resources
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.csproj.GenerateResource.Cache
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\bin\Debug\WpfApplication69.exe
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\bin\Debug\WpfApplication69.pdb
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.exe
+C:\Documents and Settings\rista\My Documents\Visual Studio 2008\Projects\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.pdb
+D:\VS 2008\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.exe
+D:\VS 2008\WpfApplication69\WpfApplication69\obj\Debug\WpfApplication69.pdb
